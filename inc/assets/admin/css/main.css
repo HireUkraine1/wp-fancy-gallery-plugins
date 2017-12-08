@@ -1,0 +1,94 @@
+.nav-tabs {
+    margin-bottom: 15px;
+}
+.nav-tabs > li {
+    position: relative;
+}
+.nav-tabs > li > a {
+    display:inline-block;
+    padding: 10px 27px;
+}
+.nav-tabs > li > span {
+    display:none;
+    cursor:pointer;
+    position:absolute;
+    right: 6px;
+    top: 8px;
+    color: #000;
+}
+.nav-tabs > li:hover > span {
+    display: inline-block;
+}
+
+.img-upload img{
+    margin-bottom: 10px;
+}
+
+.img-upload{
+    float: left;
+    margin-right: 30px;
+}
+
+.gallery-params{
+    overflow: hidden;
+}
+
+textarea{
+    resize: none
+}
+
+.gallery-params .form-group{
+    margin-bottom: 20px;
+}
+.gallery-params .form-group label{
+    font-style: normal
+}
+
+.gallery-params input[type="checkbox"]{
+    margin-right: 10px;
+}
+
+.upload_image_button{
+    margin-right: 3px;
+}
+
+.tab-content .tab-pane {
+    margin: 40px 0 20px;
+}
+
+.main-submit{
+    margin-top: 30px;
+    float: right;
+    padding: 13px 30px;
+}
+
+.add-button{
+    margin-top: 30px;
+}
+
+#carousel-form{
+    overflow: hidden;
+    padding: 10px;
+}
+
+.tab-pane .row-item{
+    padding: 15px 0;
+    border-bottom: 1px solid #dedede;
+}
+
+.shortcode{
+    margin: 15px 0;
+    padding: 10px;
+    background-color: #f4f4f4;
+}
+.row-item{
+    overflow: hidden;
+}
+
+.form-wrap{
+    margin-bottom: 20px;
+}
+
+.row-list{
+    margin-bottom: 20px;
+}
